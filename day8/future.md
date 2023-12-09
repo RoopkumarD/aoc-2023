@@ -15,6 +15,7 @@ So in future find the general solution as there are learning involved.
 
 Some help or where to start reference:
 
+https://www.reddit.com/r/adventofcode/comments/18e6vdf/2023_day_8_part_2_an_explanation_for_why_the/
 https://www.reddit.com/r/adventofcode/comments/18dtmin/2023_day_8_part_2_pictured_me_center/
 https://www.reddit.com/r/adventofcode/comments/18dg1hw/2023_day_8_part_2_about_the_correctness_of_a/
 https://www.reddit.com/r/adventofcode/comments/18dn3b8/2023_day_8_part_2_a_slightly_more_general/
