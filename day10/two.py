@@ -8,7 +8,7 @@ from utils import Node, StackFrontier, print_colors, print_map
 with open("./test2.txt", "r") as f:
     pipes = []
     start_position = (-1, -1)
-    lines = f.readlines()
+    lines = [line.strip() for line in f.readlines()]
     for line in range(len(lines)):
         temp = []
         tempLine = lines[line].strip()
